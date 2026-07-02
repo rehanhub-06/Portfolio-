@@ -230,7 +230,7 @@ window.addEventListener('load', () => {
   });
 
 
-      // Experience timeline animations
+      
       const timelineLine = document.querySelector('.timeline-line');
       if (timelineLine) {
         gsap.to(timelineLine, {
